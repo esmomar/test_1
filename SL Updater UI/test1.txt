@@ -1,2 +1,1 @@
-dodan tekst unutar mastera
-2 put
+test 1
